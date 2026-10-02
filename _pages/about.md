@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a Ph.D. candidate in Computer Science at the [HKUST NLP Group](https://hkust-nlp.github.io/), Hong Kong University of Science and Technology, where I am advised by Prof. Junxian He. I received my B.Eng. in Automation (IEEE Honor Class) from Shanghai Jiao Tong University in June 2024.
+I am Junteng Liu, a first-year Ph.D. candidate in Computer Science at HKUST NLP Group, Hong Kong University of Science and Technology, where I am advised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University in June 2024.
 
 My research focuses on natural language processing and machine learning. My current research interests include:
 
@@ -18,14 +18,13 @@ My research focuses on natural language processing and machine learning. My curr
 ## Education
 
 - **Hong Kong University of Science and Technology** (2024 - Present), Ph.D. in Computer Science, HKUST NLP Group, advised by Prof. Junxian He.
-- **Shanghai Jiao Tong University** (2020 - 2024), B.Eng. in Automation, IEEE Honor Class. Recipient of the Zhiyuan Honor Scholarship.
+- **Shanghai Jiao Tong University** (2020 - 2024), B.Eng. Recipient of the Zhiyuan Honor Scholarship.
 
 ## Research Experience
 
-- **Apple MLR**, Research Intern (2026), Cupertino, mentored by Yizhe Zhang.
-- **MiniMax**, Research Intern (2025), working on large-scale logical reasoning data synthesis and training.
-- **Tencent WXG**, Research Intern (2024).
-- **Shanghai AI Lab**, Research Intern (2023).
+- **MINIMAX**, Research Intern (February 2025 - Present).
+- **Tencent WXG**, Research Intern (June 2024 - September 2024).
+- **Shanghai AI Lab**, Research Intern (June 2023 - December 2023).
 
 ## Publications
 

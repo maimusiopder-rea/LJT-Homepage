@@ -3,7 +3,7 @@ site_theme: "default"
 title: "Junteng Liu"
 title_separator: "-"
 name: &name "Junteng Liu"
-description: &description "Junteng Liu's academic homepage and research portfolio"
+description: &description ""
 url: https://maimusiopder-rea.github.io
 baseurl: "/LJT-Homepage"
 repository: "maimusiopder-rea/LJT-Homepage"
@@ -12,15 +12,15 @@ author:
   avatar: "profile.png"
   name: "Junteng Liu"
   pronouns:
-  bio: "Ph.D. candidate at HKUST NLP Group, working on reasoning-capable and trustworthy language models."
-  location: "Hong Kong"
+  bio: "First-year PhD candidate at HKUST NLP Group"
+  location:
   employer: "Hong Kong University of Science and Technology"
   uri:
   email: "jliugi@connect.ust.hk"
 
   academia:
   arxiv:
-  googlescholar: "https://scholar.google.com/citations?user=tbK9jl4AAAAJ"
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep:
   impactstory:
   orcid:
@@ -67,8 +67,8 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
+  preprints:
+    title: 'Preprints'
   conferences:
     title: 'Conference Papers'
 
@@ -130,8 +130,7 @@ social:
   name: "Junteng Liu"
   links:
     - "https://github.com/Vicent0205"
-    - "https://twitter.com/junteng88716710"
-    - "https://scholar.google.com/citations?user=tbK9jl4AAAAJ"
+    - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
 
 analytics:
   provider: "false"
